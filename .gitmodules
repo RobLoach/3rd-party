@@ -4,3 +4,7 @@
 [submodule "squirrel"]
 	path = squirrel
 	url = https://github.com/albertodemichelis/squirrel.git
+[submodule "libretro-common"]
+	path = libretro-common
+	url = https://github.com/libretro/libretro-common.git
+	ignore = dirty
